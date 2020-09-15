@@ -1,8 +1,8 @@
 # invisible_cloth
 How to run
 1. The video file you want to edit, rename it to "video.avi" and keep it in the same folder.
-2. run the code.
-3. Red color will be replaced by the background.
+2. Run the code.
+3. Red color portion will be replaced by the corresponding background.
 4. Edited video will be saved in the same directory.
 
 What is happening in the code?
